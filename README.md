@@ -53,7 +53,7 @@ cd xv6-public
 
 2. Copy the modified files from this repo into the xv6 source tree (overwrite existing files).
 
-3/ Build and run xv6 using QEMU:
+3. Build and run xv6 using QEMU:
 
 4. make qemu
 
